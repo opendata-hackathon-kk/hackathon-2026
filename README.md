@@ -20,7 +20,7 @@
 ## 3. Odevzdání do 10. 10. 2026, 17:00
 1. Přepněte repozitář na **Public**: Settings → Danger Zone → Change visibility.
 2. Označte odevzdanou verzi: **Releases → Create a new release → Choose a tag**, napište `hackathon-2026`, zvolte **Create new tag** a klikněte na **Publish release**.
-3. Vyplňte [formulář odevzdání](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VEtKVyJh602bGMWP18ddMvScdTNCNitFkvFh7MBnceZUQkpONjFGN1pOUEU4NFlUNUNZV0s2WlpSOC4u), jeden za tým.
+3. Vyplňte [formulář odevzdání](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VEtKVyJh602bGMWP18ddMvScdTNCNitFkvFh7MBnceZUQkpONjFGN1pOUEU4NFlUNUNZV0s2WlpSOC4u), jeden za tým. Uveďte odkaz na repozitář, odkaz na release a commit SHA (7 znaků, je na stránce release vedle názvu tagu).
 
 Za odevzdanou verzi se považuje stav označený tagem `hackathon-2026`.
 
